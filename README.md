@@ -1,4 +1,4 @@
 # BalanceRacingClone
 
-> Clict to view live demo
+> Click to view live demo
 > (https://www.winniesoft.com/balance-racing-clone#header)
